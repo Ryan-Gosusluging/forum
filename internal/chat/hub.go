@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/saqreed/golang-basic-forum/internal/storage"
-	"github.com/saqreed/golang-basic-forum/pkg/config"
-	"github.com/saqreed/golang-basic-forum/pkg/logger"
+	"github.com/Ryan-Gosusluging/forum/internal/storage"
+	"github.com/Ryan-Gosusluging/forum/pkg/config"
+	"github.com/Ryan-Gosusluging/forum/pkg/logger"
 )
 
 type Client struct {

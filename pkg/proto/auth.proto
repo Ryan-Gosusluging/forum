@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package proto;
 
-option go_package = "github.com/yourusername/golang-basic-forum/pkg/proto";
+option go_package = "github.com/Ryan-Gosusluging/forum/pkg/proto";
 
 service AuthService {
   rpc Register(RegisterRequest) returns (RegisterResponse) {}

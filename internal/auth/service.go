@@ -6,10 +6,10 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/saqreed/golang-basic-forum/internal/storage"
-	"github.com/saqreed/golang-basic-forum/pkg/config"
-	"github.com/saqreed/golang-basic-forum/pkg/logger"
-	"github.com/saqreed/golang-basic-forum/pkg/proto"
+	"github.com/Ryan-Gosusluging/forum/internal/storage"
+	"github.com/Ryan-Gosusluging/forum/pkg/config"
+	"github.com/Ryan-Gosusluging/forum/pkg/logger"
+	"github.com/Ryan-Gosusluging/forum/pkg/proto"
 )
 
 type Service struct {

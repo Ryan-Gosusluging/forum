@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/saqreed/golang-basic-forum/internal/auth"
-	"github.com/saqreed/golang-basic-forum/internal/storage"
-	"github.com/saqreed/golang-basic-forum/pkg/logger"
+	"github.com/Ryan-Gosusluging/forum/internal/auth"
+	"github.com/Ryan-Gosusluging/forum/internal/storage"
+	"github.com/Ryan-Gosusluging/forum/pkg/logger"
 )
 
 // CommentHandler handles HTTP requests related to forum comments

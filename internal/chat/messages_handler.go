@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/yourusername/golang-basic-forum/pkg/logger"
+	"github.com/Ryan-Gosusluging/forum/pkg/logger"
 )
 
 type MessageResponse struct {

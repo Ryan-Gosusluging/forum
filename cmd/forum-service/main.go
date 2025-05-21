@@ -8,11 +8,11 @@ import (
 	"strconv"
 	"syscall"
 
-	"github.com/yourusername/golang-basic-forum/internal/auth"
-	"github.com/yourusername/golang-basic-forum/internal/chat"
-	"github.com/yourusername/golang-basic-forum/internal/storage"
-	"github.com/yourusername/golang-basic-forum/pkg/config"
-	"github.com/yourusername/golang-basic-forum/pkg/logger"
+	"github.com/Ryan-Gosusluging/forum/internal/auth"
+	"github.com/Ryan-Gosusluging/forum/internal/chat"
+	"github.com/Ryan-Gosusluging/forum/internal/storage"
+	"github.com/Ryan-Gosusluging/forum/pkg/config"
+	"github.com/Ryan-Gosusluging/forum/pkg/logger"
 	"google.golang.org/grpc"
 )
 

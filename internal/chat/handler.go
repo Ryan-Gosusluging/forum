@@ -5,9 +5,9 @@ import (
 	"net/http"
 
 	"github.com/gorilla/websocket"
-	"github.com/saqreed/golang-basic-forum/internal/auth"
-	"github.com/saqreed/golang-basic-forum/pkg/logger"
-	"github.com/saqreed/golang-basic-forum/pkg/proto"
+	"github.com/Ryan-Gosusluging/forum/internal/auth"
+	"github.com/Ryan-Gosusluging/forum/pkg/logger"
+	"github.com/Ryan-Gosusluging/forum/pkg/proto"
 )
 
 var upgrader = websocket.Upgrader{

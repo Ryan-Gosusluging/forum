@@ -1,4 +1,4 @@
-module github.com/saqreed/golang-basic-forum
+module github.com/Ryan-Gosusluging/forum
 
 go 1.21
 
